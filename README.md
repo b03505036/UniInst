@@ -15,27 +15,7 @@ Note that:
 - APs are evaluated on COCO2017 test split unless specified.
 
 
-## Tencent Quick Installaion
-### 1. Load Docker
-
-```
-mirrors.tencent.com/rpf_detectronv2/rpf_detectronv2_oym:version1.0
-```
-### 2. Set Variavles
-
-```
-# Take youtu for Example
-export TORCH_HOME=/youtu/xlab-team4/share/pretrained
-export DETECTRON2_DATASETS='/youtu/xlab-team4/share/datasets/'
-export FVCORE_CACHE='/youtu/xlab-team4/share/pretrained/'
-```
-
-### 3. Setup
-
-```
-python3 setup.py build develop
-```
-## Installation for others
+## Installation
 
 First install Detectron2 following the official guide: [INSTALL.md](https://github.com/facebookresearch/detectron2/blob/master/INSTALL.md).
 
@@ -114,4 +94,4 @@ Please use the following BibTeX entries:
 
 ## License
 
-For academic use, this project is licensed under the 2-clause BSD License - see the LICENSE file for details. For commercial use, please contact [Chunhua Shen](mailto:chhshen@gmail.com).
+To be continued.
