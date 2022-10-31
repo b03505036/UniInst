@@ -1,5 +1,5 @@
 
-## UniInst: Towards End-to-End Instance Segmentation with Unique Representation [UniInst](https://arxiv.org/)
+## UniInst: Towards End-to-End Instance Segmentation with Unique Representation [UniInst](https://www.sciencedirect.com/science/article/pii/S0925231222012048)
 
 Name | inf. time | mask AP | download
 --- |:---:|:---:|:---:
