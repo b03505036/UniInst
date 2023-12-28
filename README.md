@@ -80,16 +80,15 @@ Note that ourwork is based on the AdelaiDet. If you use our code in your reaserc
 Please use the following BibTeX entries:
 
 ```BibTeX
-
-@misc{tian2019adelaidet,
-  author =       {Tian, Zhi and Chen, Hao and Wang, Xinlong and Liu, Yuliang and Shen, Chunhua},
-  title =        {{AdelaiDet}: A Toolbox for Instance-level Recognition Tasks},
-  howpublished = {\url{https://git.io/adelaidet}},
-  year =         {2019}
+@article{ou2022uniinst,
+  title={UniInst: Unique representation for end-to-end instance segmentation},
+  author={Ou, Yimin and Yang, Rui and Ma, Lufan and Liu, Yong and Yan, Jiangpeng and Xu, Shang and Wang, Chengjie and Li, Xiu},
+  journal={Neurocomputing},
+  volume={514},
+  pages={551--562},
+  year={2022},
+  publisher={Elsevier}
 }
-
-#UniInst arxiv#
-
 ```
 
 ## License
